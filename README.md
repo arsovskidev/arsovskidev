@@ -9,9 +9,13 @@
 
 ## Allow me to Introduce Myself
 
-` I'm a web developer and backend engineer based in Macedonia, a lot of my open source work is focusing on making web development easier & ready to use, which is probably why you're here.`
+```
+I'm a web developer and backend engineer based in Macedonia, a lot of my open source work is focusing on making web development easier & ready to use, which is probably why you're here.
+```
 
-` In short - machine that turns coffee into code.`
+```
+In short - machine that turns coffee into code.
+```
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arshetamine&countColorcountColor&countColor=%235a37dc)
 
