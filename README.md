@@ -9,7 +9,7 @@
 ```
 I'm a web developer and backend engineer based in Macedonia,
 a lot of my open source work is focusing on making web development easier & ready to use,
-which is probably why you're here.
+which is probably why you're here, or maybe stalking. 🕵️
 ```
 
 ```
