@@ -20,4 +20,4 @@ In short - machine that turns coffee into code.
 
 ![](https://github-readme-stats.vercel.app/api?username=arshetamine&count_private=true&show_icons=true&theme=midnight-purple)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpmyPanel&theme=midnight-purple)](https://github.com/arshetamine/phpMyPanel)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpCaptcha&theme=midnight-purple)](https://github.com/arshetamine/phpCaptcha)
