@@ -21,3 +21,12 @@ In short - machine that turns coffee into code.
 ![](https://github-readme-stats.vercel.app/api?username=arshetamine&count_private=true&show_icons=true&theme=midnight-purple)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpCaptcha&theme=midnight-purple)](https://github.com/arshetamine/phpCaptcha)
+
+```
+Support Me
+BTC [bc1qq3zcvx8da0ts6qgupp5yhwax7pj07rs73k5nwg]
+XRP [rNMqGz17X4RBPxJFhHWKt8Braa5ugcwWv6]
+DGB [DFZiTZt8aB9djVCnKQyPseb1s3WtyRU2EG]
+ALGO [BBHQQ3ZFCXVNHL6E3Z3SM43P4LIN7XNA46JYABSS353AYPHNPABK323FNQ]
+ADA [addr1qx8l6lrpftr6nff8q8ttmy0p6rwx80fqj2c00gavagzvh650l47xzjk84xjjwqwkhkg7r5xuvw7jpy4s7736e6sye04qc38rnt]
+```
