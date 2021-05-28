@@ -23,6 +23,7 @@ In short - machine that turns coffee into code.
 [![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpCaptcha&theme=midnight-purple)](https://github.com/arshetamine/phpCaptcha)
 
 ```
+Support Here!
 
 BTC - [bc1qq3zcvx8da0ts6qgupp5yhwax7pj07rs73k5nwg]
 ALGO - [BBHQQ3ZFCXVNHL6E3Z3SM43P4LIN7XNA46JYABSS353AYPHNPABK323FNQ]
