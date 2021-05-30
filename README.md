@@ -12,15 +12,12 @@ a lot of my open source work is focusing on making web development easier & read
 which is probably why you're here, or maybe stalking. 🕵️
 ```
 
-```
-In short - machine that turns coffee into code.
-```
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=arshetamine&countColorcountColor&countColor=%235a37dc)
 
 ![](https://github-readme-stats.vercel.app/api?username=arshetamine&count_private=true&show_icons=true&theme=midnight-purple)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpCaptcha&theme=midnight-purple)](https://github.com/arshetamine/phpCaptcha)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpCaptcha&theme=midnight-purple)](https://github.com/arshetamine/php-captcha)
 
 ```
 Support Here!
