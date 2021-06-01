@@ -17,7 +17,7 @@ which is probably why you're here, or maybe stalking. 🕵️
 
 ![](https://github-readme-stats.vercel.app/api?username=arshetamine&count_private=true&show_icons=true&theme=midnight-purple)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=phpCaptcha&theme=midnight-purple)](https://github.com/arshetamine/php-captcha)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=arshetamine&repo=php-captcha&theme=midnight-purple)](https://github.com/arshetamine/php-captcha)
 
 ```
 Support Here!
