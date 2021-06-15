@@ -17,7 +17,7 @@ which is probably why you're here, or maybe stalking. 🕵️
 
 ![](https://github-readme-stats.vercel.app/api?username=arsovskidev&count_private=true&show_icons=true&theme=midnight-purple)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=arsovskidev&repo=php-captcha&theme=midnight-purple)](https://github.com/arsovskidev/php-captcha)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=arsovskidev&repo=covid-tracker&theme=midnight-purple)](https://github.com/arsovskidev/covid-tracker)
 
 ```
 Support Here!
