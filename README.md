@@ -17,6 +17,8 @@ which is probably why you're here, or maybe stalking. 🕵️
 [![](https://img.shields.io/badge/gitlab-%235a37dc.svg?&style=for-the-badge)](https://gitlab.com/arsovskidev)
 [![](https://img.shields.io/badge/linkedin-%235a37dc.svg?&style=for-the-badge)](https://linkedin.com/in/filiparsovski)
 
+[![](https://www.codewars.com/users/arsovskidev/badges/large)](https://www.codewars.com/users/arsovskidev)
+
 ![](https://github-readme-stats.vercel.app/api?username=arsovskidev&count_private=true&show_icons=true&theme=midnight-purple)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=arsovskidev&repo=covid-tracker&theme=midnight-purple)](https://github.com/arsovskidev/covid-tracker)
