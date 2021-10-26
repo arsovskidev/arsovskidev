@@ -22,12 +22,3 @@ which is probably why you're here, or maybe stalking. 🕵️
 ![](https://github-readme-stats.vercel.app/api?username=arsovskidev&count_private=true&show_icons=true&theme=midnight-purple)
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=arsovskidev&repo=100-days-of-code&theme=midnight-purple)](https://github.com/arsovskidev/100-days-of-code)
-
-```
-Support Here!
-
-BTC - [bc1qq3zcvx8da0ts6qgupp5yhwax7pj07rs73k5nwg]
-ALGO - [BBHQQ3ZFCXVNHL6E3Z3SM43P4LIN7XNA46JYABSS353AYPHNPABK323FNQ]
-XRP - [rNMqGz17X4RBPxJFhHWKt8Braa5ugcwWv6]
-DGB - [DFZiTZt8aB9djVCnKQyPseb1s3WtyRU2EG]
-```
