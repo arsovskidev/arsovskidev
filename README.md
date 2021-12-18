@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=%23E34F26) ![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=%231572B6) ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![](https://img.shields.io/badge/laravel-%23323330.svg?&style=for-the-badge&logo=laravel&logoColor=23092E20) ![](https://img.shields.io/badge/django%20-%23323330.svg?&style=for-the-badge&logo=django&logoColor=23092E20) ![](https://img.shields.io/badge/php-%23323330.svg?&style=for-the-badge&logo=php&logoColor=%23777BB4) ![](https://img.shields.io/badge/python%20-%23323330.svg?&style=for-the-badge&logo=python&logoColor=2314354C) ![](https://img.shields.io/badge/mysql-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 
 <p align="center">
-  <a href="https://astennu.com"><img src="https://i.imgur.com/3jfn5LV.png" width="200"></a>
+  <a href="https://astennu.com"><img src="https://i.imgur.com/kDrPjRV.png" width="200"></a>
 </p>
 
 ## Allow me to Introduce Myself
